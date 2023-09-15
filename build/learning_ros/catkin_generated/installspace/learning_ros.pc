@@ -1,0 +1,8 @@
+prefix=/home/akshita/Desktop/akshita_ws/install
+
+Name: learning_ros
+Description: Description of learning_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
